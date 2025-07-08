@@ -18,7 +18,7 @@
   </tr>
   </td>
     <td style="border: none; padding: 0; margin: 0; background: transparent;">
-      <img src=(https://files.catbox.moe/6syoth.png)" width="500" style="border:none; box-shadow:none;"/>
+      <img src="https://files.catbox.moe/6syoth.png" width="500" style="border:none; box-shadow:none;"/>
     </td>
   </tr>
 </table>
