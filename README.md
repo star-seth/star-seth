@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td style="border: none; padding: 0; margin: 0; background: transparent;">
-      <img src="https://files.catbox.moe/u2fvh9.png" width="500" style="border:none; box-shadow:none;"/>
+      <img src="https://files.catbox.moe/cno72v.png" width="500" style="border:none; box-shadow:none;"/>
     </td>
     <td style="border: none; padding: 0; margin: 0; background: transparent;">
       <img src="https://files.catbox.moe/k1popp.png" width="500" style="border:none; box-shadow:none;"/>
