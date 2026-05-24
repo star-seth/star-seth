@@ -4,7 +4,7 @@
 <table style="border-collapse: collapse;" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: none; padding: 0; margin: 0; background: transparent;">
-      <img src="https://files.catbox.moe/w85eoo.png" width="500" style="border:none; box-shadow:none;"/>
+      <img src="https://files.catbox.moe/i9s28x.png" width="500" style="border:none; box-shadow:none;"/>
     </td>
      <td style="border: none; padding: 0; margin: 0; background: transparent;">
       <img src="https://files.catbox.moe/kitxxq.png" width="500" style="border:none; box-shadow:none;"/>
