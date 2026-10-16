@@ -13,7 +13,7 @@
 <table style="border-collapse: collapse;" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: none; padding: 0; margin: 0; background: transparent;">
-      <img src="https://files.catbox.moe/2ridd5.png" style="border:none; box-shadow:none;"/>
+      <img src="https://files.catbox.moe/7zc4v7.png" style="border:none; box-shadow:none;"/>
     </td>
     <td style="border: none; padding: 0; margin: 0; background: transparent;">
       <img src="https://files.catbox.moe/tr3oa7.png" style="border:none; box-shadow:none;"/>
